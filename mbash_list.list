@@ -1,0 +1,1 @@
+deb [signed-by=/etc/apt/trusted.gpg.d/mbash_ppa.gpg] https://TanguyFox.github.io/mbash_ppa ./
