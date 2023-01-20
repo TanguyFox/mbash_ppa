@@ -1,0 +1,14 @@
+Package: mbash
+Version: 0.1-1
+Architecture: all
+Maintainer: SAE <arnaud35u@etu.univ-lorraine.fr>
+Depends: libc6
+Filename: ./mbash_0.1-1.deb
+Size: 1736
+MD5sum: c60b2609297f57dac2cb39b6acdc1d85
+SHA1: b65fa6043f0b5ae1c2f0f525869ef1d65a660451
+SHA256: 8923d9f44ecd19a09c77c4b5c54027664e84a91b729b58a046dea3242b2587e1
+Section: utilis
+Priority: optional
+Description: Mini bash
+
